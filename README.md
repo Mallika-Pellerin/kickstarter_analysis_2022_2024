@@ -6,6 +6,10 @@ Ce projet présente une **analyse complète des campagnes de financement partici
 
 ## 📂 Structure du dépôt
 
+notebooks/
+│
+├── 01_kickstarter_data_preprocessing.ipynb # Nettoyage et préparation des données
+└── 02_kickstarter_analysis_2022_2024.ipynb # Exploration et visualisation des données
 
 ---
 
