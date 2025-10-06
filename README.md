@@ -1,4 +1,4 @@
-# 🎯 Analyse des campagnes **Quickstarter** (2022–2024)
+# Analyse des campagnes **Quickstarter** (2022–2024)
 
 Ce projet présente une **analyse complète des campagnes de financement participatif** sur la plateforme *Quickstarter* (inspirée de Kickstarter) pour la période **2022 à 2024**.  
 
