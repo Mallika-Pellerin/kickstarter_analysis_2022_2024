@@ -11,6 +11,10 @@ notebooks/
 - 01_kickstarter_data_preprocessing.ipynb # Nettoyage et préparation des données
 - 02_kickstarter_analysis_2022_2024.ipynb # Exploration et visualisation des données
 
+powerbi/
+
+- Le fichier Power BI contient la visualisation finale #Nettoyage, modélisation et construction du rapport (tableau de bord dynamique)
+
 ---
 
 ## 🧠 Description du projet
